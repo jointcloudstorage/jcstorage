@@ -25,6 +25,6 @@
   - 改进纠删编码，减少数据恢复和迁移成本；消除重复数据，减少网络流量
 - 根据数据对象的历史访问规律，动态调整数据存储模式
 
-## 云际计算框架G-Spark原型系统-v1
+## [云际计算框架G-Spark原型系统-v1](https://github.com/jointcloud-buaa/G-Spark)
 
-## 云际时空数据索引原型系统-v1
+## [云际时空数据索引原型系统-v1](https://github.com/jointcloud-buaa/jcsIndex)
