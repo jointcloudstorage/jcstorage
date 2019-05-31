@@ -23,6 +23,10 @@
   - 改进纠删编码，减少数据恢复和迁移成本；消除重复数据，减少网络流量
 - **根据数据对象的历史访问规律，动态调整数据存储模式**
 
+## 系统架构
+
+![系统架构图](./resources/jcsCloud.jpg)
+
 # [云际计算框架G-Spark原型系统-v1](https://github.com/jointcloud-buaa/G-Spark)
 
 ## 背景及问题
